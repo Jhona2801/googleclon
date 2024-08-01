@@ -82,7 +82,7 @@ nav .top-nav img   {
 
     footer{
         margin-top:21%;
-        background-color: #f2f2f2;
+        background-color: hsla(0, 0%, 95%, 0.677);
         width: 100%;
         height: auto;
         position:absolute;
@@ -108,7 +108,6 @@ nav .top-nav img   {
     footer .rightfoot {
         width: 50%;
         font-size: 16px;
-        margin-top: 0px;
         list-style: none;
         justify-content: right ;
 
